@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PedalConnect</string>
+    <string name="button_savePreset">Save</string>
+    <string name="button_search">Search</string>
+    <string name="refresh">Refresh</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="disconnect">Disconnect</string>
+</resources>

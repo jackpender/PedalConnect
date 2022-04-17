@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RotaryKnobView">
+        <attr name="minValue" format="integer" />
+        <attr name="maxValue" format="integer" />
+        <attr name="initialValue" format="integer" />
+        <attr name="knobDrawable" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="LevelKnobView">
+        <attr name="levelMinValue" format="integer" />
+        <attr name="levelMaxValue" format="integer" />
+        <attr name="levelInitialValue" format="integer" />
+        <attr name="levelKnobDrawable" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="ToneKnobView">
+        <attr name="toneMinValue" format="integer" />
+        <attr name="toneMaxValue" format="integer" />
+        <attr name="toneInitialValue" format="integer" />
+        <attr name="toneKnobDrawable" format="reference" />
+    </declare-styleable>
+</resources>
