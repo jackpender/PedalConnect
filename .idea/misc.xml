@@ -3,15 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/jackm/Documents/FinalYear-Sem2/Project/PedalConnect/app/src/main/res/layout/actionbar.xml" value="0.1" />
+        <entry key="..\:/Users/jackm/Documents/FinalYear-Sem2/Project/PedalConnect/app/src/main/res/layout/actionbar_intermediate_progress.xml" value="0.25" />
         <entry key="..\:/Users/jackm/Documents/FinalYear-Sem2/Project/PedalConnect/app/src/main/res/layout/activity_controlling.xml" value="0.1" />
+        <entry key="..\:/Users/jackm/Documents/FinalYear-Sem2/Project/PedalConnect/app/src/main/res/layout/activity_device_control.xml" value="0.25" />
         <entry key="..\:/Users/jackm/Documents/FinalYear-Sem2/Project/PedalConnect/app/src/main/res/layout/activity_device_select.xml" value="0.12708333333333333" />
         <entry key="..\:/Users/jackm/Documents/FinalYear-Sem2/Project/PedalConnect/app/src/main/res/layout/activity_main.xml" value="0.2" />
-        <entry key="..\:/Users/jackm/Documents/FinalYear-Sem2/Project/PedalConnect/app/src/main/res/layout/activity_pedal.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/jackm/Documents/FinalYear-Sem2/Project/PedalConnect/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Users/jackm/Documents/FinalYear-Sem2/Project/PedalConnect/app/src/main/res/layout/activity_main_bluetooth.xml" value="0.25" />
+        <entry key="..\:/Users/jackm/Documents/FinalYear-Sem2/Project/PedalConnect/app/src/main/res/layout/activity_pedal.xml" value="0.16" />
         <entry key="..\:/Users/jackm/Documents/FinalYear-Sem2/Project/PedalConnect/app/src/main/res/layout/activity_pedal1.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/jackm/Documents/FinalYear-Sem2/Project/PedalConnect/app/src/main/res/layout/activity_recycler_ble_device.xml" value="0.25" />
         <entry key="..\:/Users/jackm/Documents/FinalYear-Sem2/Project/PedalConnect/app/src/main/res/layout/activity_select_device.xml" value="0.11302083333333333" />
         <entry key="..\:/Users/jackm/Documents/FinalYear-Sem2/Project/PedalConnect/app/src/main/res/layout/control_layout.xml" value="0.264" />
+        <entry key="..\:/Users/jackm/Documents/FinalYear-Sem2/Project/PedalConnect/app/src/main/res/layout/gatt_services_characteristics.xml" value="0.25" />
         <entry key="..\:/Users/jackm/Documents/FinalYear-Sem2/Project/PedalConnect/app/src/main/res/layout/list_item.xml" value="0.25" />
+        <entry key="..\:/Users/jackm/Documents/FinalYear-Sem2/Project/PedalConnect/app/src/main/res/layout/listitem_device.xml" value="0.25" />
         <entry key="..\:/Users/jackm/Documents/FinalYear-Sem2/Project/PedalConnect/app/src/main/res/layout/random.xml" value="0.1234375" />
+        <entry key="..\:/Users/jackm/Documents/FinalYear-Sem2/Project/PedalConnect/app/src/main/res/menu/gatt_services.xml" value="0.25" />
+        <entry key="..\:/Users/jackm/Documents/FinalYear-Sem2/Project/PedalConnect/app/src/main/res/menu/main.xml" value="0.25" />
       </map>
     </option>
   </component>
